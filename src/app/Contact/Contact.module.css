@@ -1,0 +1,24 @@
+.container{
+    text-align:center;
+    
+}
+.title{
+    color:rgb(62, 13, 141);
+    background-color: rgb(130, 149, 149);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.main{
+    font-size: 20px;
+}
+.link{
+    color: rgb(255, 72, 0);
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.email{
+    color:darkmagenta;
+    font-weight: 800;
+}

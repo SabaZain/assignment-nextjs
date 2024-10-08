@@ -1,0 +1,22 @@
+.container{
+    text-align:center;
+    
+}
+.title{
+    color:rgb(24, 82, 130);
+    background-color: rgb(72, 188, 72);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.main{
+    text-align: left;
+    font-size: 20px;
+}
+.link{
+    
+    color: rgb(255, 72, 0);
+    text-decoration: none;
+    font-weight: bold;
+
+}
